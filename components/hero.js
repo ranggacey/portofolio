@@ -86,17 +86,6 @@ export default function Hero() {
     return () => ctx.revert()
   }, [])
 
-  const scrollToAbout = () => {
-    const aboutSection = document.getElementById("about")
-    if (aboutSection) {
-      gsap.to(window, {
-        duration: 1,
-        scrollTo: { y: aboutSection, offsetY: 80 },
-        ease: "power3.inOut",
-      })
-    }
-  }
-
   return (
     <section
       id="home"

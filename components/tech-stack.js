@@ -70,7 +70,7 @@ export default function TechStack() {
             My Tech Stack
           </h2>
           <p className="mt-6 text-lg text-foreground/80 max-w-2xl mx-auto">
-            These are the technologies I work with to bring ideas to life. I'm constantly learning and expanding my
+            These are the technologies I work with to bring ideas to life. I&apos;m constantly learning and expanding my
             skillset.
           </p>
         </div>

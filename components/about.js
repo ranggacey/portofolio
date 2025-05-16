@@ -73,7 +73,7 @@ export default function About() {
             <h2 className="text-3xl md:text-4xl font-bold section-heading">About Me</h2>
 
             <p className="text-lg text-foreground/80">
-              Hello! I'm Rangga Figo Hidayat, a passionate web developer with a keen eye for creating beautiful,
+              Hello! I&apos;m Rangga Figo Hidayat, a passionate web developer with a keen eye for creating beautiful,
               functional, and user-friendly websites. I love turning complex problems into simple, elegant solutions.
             </p>
 
