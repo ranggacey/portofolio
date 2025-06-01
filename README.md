@@ -2,7 +2,7 @@
 
 Selamat datang di repositori portofolio pribadi saya! Proyek ini dibuat menggunakan **Next.js** dan dideploy menggunakan **Vercel**. Website ini dirancang untuk menampilkan informasi tentang saya, skill, pengalaman, proyek-proyek yang pernah saya kerjakan, serta cara menghubungi saya.
 
-🌐 Live Website: [https://portofolio-ranggacey.vercel.app](https://portofolio-ranggacey.vercel.app)
+🌐 Live Website: [https://ranggaceyport.vercel.app/](https://ranggaceyport.vercel.app/)
 
 ## ✨ Fitur Utama
 
